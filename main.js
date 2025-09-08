@@ -1,7 +1,7 @@
 // script.js
 
 // Ngày Giáng sinh 2024
-const christmasDate = new Date("2024-12-24T00:00:00");
+const christmasDate = new Date("2025-12-24T00:00:00");
 
 // Hàm để cập nhật thời gian đếm ngược
 function updateCountdown() {
